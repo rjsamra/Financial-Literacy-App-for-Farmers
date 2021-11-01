@@ -1,0 +1,5 @@
+
+1. Random Function for min and max of average price
+2. Implement Slider
+3. Buy Function for cow
+4. Buy function for wheat
